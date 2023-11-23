@@ -7,7 +7,7 @@
 .home {
     height: 100vh;
     width: 100%;
-    background-color: black;   
+    background-color: black;  
 }
 nav {
     display: flex;
@@ -18,7 +18,7 @@ nav {
     padding-right: 8%;
     padding-left: 8%;
     background-color: #000000;
-    border-bottom: 3px solid red;
+    border-bottom: 3px solid #00abf0;;
 }
 
 .logo {
@@ -29,7 +29,7 @@ nav {
 }
 
 span {
-    color: red;
+    color: #00abf0;;
 }
 
 nav ul li {
@@ -46,7 +46,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: red;
+    color: #00abf0;;
     transition: 0.5s;
 }
 
@@ -95,7 +95,7 @@ h3 {
 
 .content a {
     font-size: 20px;
-    background: red;
+    background: #00abf0;;
     color: white;
     display: inline-block;
     padding: 10px 30px;
@@ -106,7 +106,7 @@ h3 {
 
 .content a:hover {
     background: transparent;
-    border: 2px solid red;
+    border: 2px solid #00abf0;;
 }
 
 .about {
@@ -139,7 +139,7 @@ h3 {
     font-size: 65px;
     text-transform: capitalize;
     margin-bottom: 20px;
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid #00abf0;;
 }
 
 .about-text h5 {
@@ -160,7 +160,7 @@ h3 {
 }
 
 .button {
-    background-color: red;
+    background-color: #00abf0;;
     color: white;
     border: 2px solid white;
     font-weight: bold;
@@ -171,7 +171,7 @@ h3 {
 
 .button:hover {
     background-color: transparent;
-    border: 2px solid red;
+    border: 2px solid #00abf0;;
     cursor: pointer;
 }
 
@@ -206,7 +206,7 @@ h3 {
     position: relative;
     overflow: hidden;
     text-align: center;
-    border: 1px solid red;
+    border: 1px solid ;
 }
 
 .card i {
@@ -214,7 +214,7 @@ h3 {
     display: block;
     text-align: center;
     margin: 25px 0;
-    color: red;
+    color: #00abf0d;
 }
 
 .card h5 {
@@ -241,12 +241,12 @@ h3 {
 
 .html {
     width: 40%;
-    background-color: red;
+    background-color: #00abf0;
 }
 
 .css {
     width: 40%;
-    background-color: red;
+    background-color: #00abf0;
 }
 
 .contact-me {
@@ -286,7 +286,7 @@ h3 {
 }
 
 .contact h4 {
-    color: red;
+    color: #00abf0;
     padding-bottom: 10px;
 }
 
@@ -328,7 +328,7 @@ footer p:nth-child(2) {
     height: 45px;
     display: flex;
     align-items: center;
-    background: red;
+    background: #00abf0;
     border-radius: 50%;
     margin: 22px 10px;
     color: white;
